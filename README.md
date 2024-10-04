@@ -27,3 +27,7 @@ Run the following command:
 ```bash
 streamlit run Home.py
 ```
+
+## Demo
+
+[YouTube video](https://youtu.be/f1fnojh5Ack)
