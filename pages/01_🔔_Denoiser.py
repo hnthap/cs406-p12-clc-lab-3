@@ -1,6 +1,3 @@
-import sys
-
-from PIL import Image
 import numpy as np
 import streamlit as st
 
@@ -75,7 +72,7 @@ def main():
         show('Noisy', noised_image)
     with col_3:
         show('Noisy image after denoised', denoised_image)
-        
+
 
 if __name__ == '__main__':
-    sys.exit(main())
+    main()

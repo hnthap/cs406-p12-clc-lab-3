@@ -1,5 +1,3 @@
-import sys
-
 import cv2
 import streamlit as st
 
@@ -56,4 +54,4 @@ def main():
 
 
 if __name__ == '__main__':
-    sys.exit(main())
+    main()
